@@ -13,4 +13,4 @@ Project Structure:
 ├── images/
 └── README.txt
 
-Usage: 
+Usage: dolwnload the repository on local machine and unzip the file. then open the index.html in browser.
